@@ -684,7 +684,7 @@ vertical-align: top;
     height: 35px;
     background-color: black;
     position: absolute;
-    rotate: 45deg;
+    transform: rotate(45deg);
     top: 181px;
     left: 82px;
     border-radius: 5px;
